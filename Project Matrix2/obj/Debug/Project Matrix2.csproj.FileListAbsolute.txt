@@ -1,0 +1,20 @@
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\bin\Debug\Project Matrix2.exe.config
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\bin\Debug\Project Matrix2.exe
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\bin\Debug\Project Matrix2.pdb
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.csprojAssemblyReference.cache
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project_Matrix2.Form1.resources
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project_Matrix2.Properties.Resources.resources
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.csproj.GenerateResource.cache
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.csproj.CoreCompileInputs.cache
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.exe
+C:\Users\MooDy\source\repos\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.pdb
+E:\Project Matrix2\Project Matrix2\bin\Debug\Project Matrix2.exe.config
+E:\Project Matrix2\Project Matrix2\bin\Debug\Project Matrix2.exe
+E:\Project Matrix2\Project Matrix2\bin\Debug\Project Matrix2.pdb
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.csprojAssemblyReference.cache
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project_Matrix2.Form1.resources
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project_Matrix2.Properties.Resources.resources
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.csproj.GenerateResource.cache
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.csproj.CoreCompileInputs.cache
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.exe
+E:\Project Matrix2\Project Matrix2\obj\Debug\Project Matrix2.pdb
